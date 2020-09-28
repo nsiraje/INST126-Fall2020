@@ -12,17 +12,23 @@ Calculator
 
 ##*Second Step* 
 
-1. After you have inputed your desired operation, it will ask you to insert 2 or 3 numbers depending on the operation you choose. 
-  For example, for addition, subtraction, division and multiplication, it will allow you to insert up to 3 numbers. 
+1. After you have inputed your desired operation, it will ask you to insert 2 or 3 numbers depending on the operation you choose.
+2. For example, for addition, subtraction, division and multiplication, it will allow you to insert up to 3 numbers. 
   
   ##*Third step*
   
-  Once you have entered all of your desired values, it will calculate your numbers based on the operation you have selected. 
+ 1. Once you have entered all of your desired values, it will calculate your numbers based on the operation you have selected. 
+ 
   If you choose addition, it will add the inputed values.
+  
   if you choose subtraction, it will subtract the inputed values.
+  
   If you chose multiplication, it will multiply the inputed values.
+  
   If you choose division, it will divide the inputed values.
+  
   If you choose percentage, it will multiply the two values then divide them by 100 to find the percentage.
+  
   If you choose exponential, it will raise your initial number to the power of your second value.
   
   ##*The End!*
