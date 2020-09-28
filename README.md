@@ -23,7 +23,7 @@ Calculator
   
   if you choose subtraction, it will subtract the inputed values.
   
-  If you chose multiplication, it will multiply the inputed values.
+  If you chose multiplication, it will multiply the inputed values. (For the third value, it says input one instead of zero because if you dont have a third input, by putting 1 it wont affect your answer since multiplying anything by zero will give you zero)
   
   If you choose division, it will divide the inputed values.
   
